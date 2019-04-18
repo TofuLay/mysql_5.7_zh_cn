@@ -1,6 +1,6 @@
 # Table of contents
 
-* [目录](README.md)
+* [MySQL 5.7 学习手册](README.md)
 * [Optimization](optimization.md)
 * [The InnoDB Storage Engine](the-innodb-storage-engine.md)
 * [Replication](replication-1.md)
