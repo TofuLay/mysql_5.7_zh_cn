@@ -2,5 +2,5 @@
 description: INFORMATION_SCHEMA Tables
 ---
 
-# information\_schema
+# INFORMATION\_SCHEMA
 
