@@ -4,9 +4,9 @@
 
 {% page-ref page="optimization.md" %}
 
-{% page-ref page="the-innodb-storage-engine.md" %}
+{% page-ref page="the-innodb-storage-engine/" %}
 
-{% page-ref page="replication-1.md" %}
+{% page-ref page="replication.md" %}
 
 {% page-ref page="group-replication.md" %}
 
