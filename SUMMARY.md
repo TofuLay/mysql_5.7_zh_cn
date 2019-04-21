@@ -10,6 +10,7 @@
     * [14.1.5 关闭InnoDB引擎](the-innodb-storage-engine/untitled/14.1.5.md)
   * [14.2 InnoDB与ACID模型](the-innodb-storage-engine/14.2.md)
   * [14.3 InnoDB Multi-Versioning\(多版本\)](the-innodb-storage-engine/14.3-innodb-multiversioning-duo-ban-ben.md)
+  * [14.4 InnoDB 架构](the-innodb-storage-engine/14.4-innodb-jia-gou.md)
 * [Optimization](optimization.md)
 * [Replication](replication.md)
 * [Group Replication](group-replication.md)
