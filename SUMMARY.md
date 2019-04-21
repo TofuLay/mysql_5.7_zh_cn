@@ -9,6 +9,7 @@
     * [14.1.4 用InnoDB进行测试跟基准测试](the-innodb-storage-engine/untitled/14.1.4.md)
     * [14.1.5 关闭InnoDB引擎](the-innodb-storage-engine/untitled/14.1.5.md)
   * [14.2 InnoDB与ACID模型](the-innodb-storage-engine/14.2.md)
+  * [14.3 InnoDB Multi-Versioning\(多版本\)](the-innodb-storage-engine/14.3-innodb-multiversioning-duo-ban-ben.md)
 * [Optimization](optimization.md)
 * [Replication](replication.md)
 * [Group Replication](group-replication.md)
