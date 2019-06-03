@@ -16,6 +16,7 @@
     * [14.5.2 Change Buffer](the-innodb-storage-engine/14.5-innodb-nei-cun-jie-gou/14.5.2-change-buffer.md)
     * [14.5.3 Adaptive Hash Index](the-innodb-storage-engine/14.5-innodb-nei-cun-jie-gou/14.5.3-adaptive-hash-index.md)
     * [14.5.4 Log Buffer](the-innodb-storage-engine/14.5-innodb-nei-cun-jie-gou/14.5.4-log-buffer.md)
+  * [14.13 InnoDB and Online DDL](the-innodb-storage-engine/14.13.md)
 * [Optimization](optimization.md)
 * [Replication](replication.md)
 * [Group Replication](group-replication.md)
